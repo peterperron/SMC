@@ -1,0 +1,7 @@
+libCEGUISampleHelper_la-CEGuiRendererSelector.lo: \
+ CEGuiRendererSelector.cpp /usr/include/stdc-predef.h \
+ ../../../Samples/common/include/CEGuiRendererSelector.h
+
+/usr/include/stdc-predef.h:
+
+../../../Samples/common/include/CEGuiRendererSelector.h:
