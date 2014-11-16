@@ -42,7 +42,7 @@
 #include "CEGUISchemeManager.h"
 #include "falagard/CEGUIFalWidgetLookManager.h"
 #include "elements/CEGUIProgressBar.h"
-#include "RendererModules/Null/CEGUINullRenderer.h"
+#include "CEGUI/RendererModules/Null/CEGUINullRenderer.h"
 // png
 #include <png.h>
 #ifndef PNG_COLOR_TYPE_RGBA
